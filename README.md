@@ -25,3 +25,14 @@ This project enables companies to:
 - Identify high-risk customers early using churn probability scores
 - Target retention efforts (discounts, contract upgrades, service bundling)
 - Allocate resources efficiently instead of treating all customers equally
+
+## Key Visuals
+
+### Churn by Contract Type
+![Churn by Contract](A1.png)
+
+### Billing & Payment Behavior
+![Billing Behavior](A2.png)
+
+### Key Drivers of Churn (Model Interpretation)
+![Feature Importance](A6.png)
