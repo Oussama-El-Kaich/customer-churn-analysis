@@ -1,7 +1,9 @@
 # Customer Churn Prediction & Retention Strategy
 
 ## Overview
-This project analyzes customer churn in a telecom company and builds a predictive model to identify high-risk customers.
+Customer churn is a major challenge in telecom due to high competition and low switching costs. 
+
+This project builds a predictive model to identify high-risk customers and provides actionable insights to improve retention strategies and reduce revenue loss.
 
 ## Tools
 Python (Pandas, NumPy, Scikit-learn), Matplotlib, Seaborn
