@@ -36,3 +36,6 @@ This project enables companies to:
 
 ### Key Drivers of Churn (Model Interpretation)
 ![Feature Importance](A6.png)
+
+### Model Performance (Logistic Regression)
+![Model Evaluation](A7.png)
