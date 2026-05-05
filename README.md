@@ -1,4 +1,3 @@
-# customer-churn-analysis
 # Customer Churn Prediction & Retention Strategy
 
 ## Overview
