@@ -21,4 +21,7 @@ Python (Pandas, NumPy, Scikit-learn), Matplotlib, Seaborn
 - Security and support services reduce churn
 
 ## Business Impact
-The model can help companies target high-risk customers with retention strategies like contract upgrades and service bundling.
+This project enables companies to:
+- Identify high-risk customers early using churn probability scores
+- Target retention efforts (discounts, contract upgrades, service bundling)
+- Allocate resources efficiently instead of treating all customers equally
